@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add your CSS file (e.g., styles.css) */
+.tetronimo-i {
+    background-color: #00f; /* Blue */
+  }
+  
+  .tetronimo-j {
+    background-color: #f00; /* Red */
+  }
+  
+  .tetronimo-l {
+    background-color: #ff0; /* Yellow */
+  }
+
+  .tetronimo-o {
+    background-color: pink; /* Yellow */
+  }
+
+  .tetronimo-s {
+    background-color: green; /* Yellow */
+  }
+
+  .tetronimo-t {
+    background-color: purple; /* Yellow */
+  }
+
+  .tetronimo-z {
+    background-color: orange;
+     /* Yellow */
+  }
+  
+  /* Add classes for each Tetromino color */
+.bg-42A5F5 {
+  background-color: #42A5F5;
+}
+
+/* Define classes for other Tetromino colors */
+.bg-7E57C2 {
+  background-color: #7E57C2;
+}
+
+.bg-81C784 {
+  background-color: #81C784;
+}
+
+.bg-FFF176 {
+  background-color: #FFF176;
+}
+
+.bg-FF7043 {
+  background-color: #FF7043;
+}
+
+.bg-EC407A {
+  background-color: #EC407A;
+}
+
+.bg-546E7A {
+  background-color: #546E7A;
+}
+  
